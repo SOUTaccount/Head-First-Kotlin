@@ -11,4 +11,7 @@ Just songs.
 In project used: class, fun, val.  
 **Dogs**  
 Walks with your dog  
-In project used: val, var, fun, class, array, set, get
+In project used: val, var, fun, class, array, set, get  
+**Animals**
+This app is real zoo.  
+In this project used: interface, extends, val, var, abstract, override, fun, array, foreach  
