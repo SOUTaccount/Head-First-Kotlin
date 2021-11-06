@@ -15,3 +15,6 @@ In project used: val, var, fun, class, array, set, get
 **Animals**  
 This app is real zoo.  
 In this project used: interface, extends, val, var, abstract, override, fun, array, foreach  
+**Recipes**  
+Unbelieveble recipes.  
+In this project used: var, val, fun, constructor, data, class, array, hachcode, copy  
