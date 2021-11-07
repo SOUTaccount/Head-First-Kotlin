@@ -18,3 +18,6 @@ In this project used: interface, extends, val, var, abstract, override, fun, arr
 **Recipes**  
 Unbelieveble recipes.  
 In this project used: var, val, fun, constructor, data, class, array, hachcode, copy  
+**NullValues**  
+Exceptions and thread.  
+In this project used: var, val, fun, class, for, ?, !!  
