@@ -21,3 +21,6 @@ In this project used: var, val, fun, constructor, data, class, array, hachcode, 
 **NullValues**  
 Exceptions and thread.  
 In this project used: var, val, fun, class, for, ?, !!  
+**Collections**  
+App for work with collections.  
+In this project used: var, val, class, fun, list, set, map, mutable, data  
