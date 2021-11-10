@@ -24,3 +24,6 @@ In this project used: var, val, fun, class, for, ?, !!
 **Collections**  
 App for work with collections.  
 In this project used: var, val, class, fun, list, set, map, mutable, data  
+**Generics**  
+Competition animals.  
+In this project used: var, val , class, fun, abstract, interface, mutable, map, set, T  
