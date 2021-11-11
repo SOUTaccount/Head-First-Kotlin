@@ -27,3 +27,6 @@ In this project used: var, val, class, fun, list, set, map, mutable, data
 **Generics**  
 Competition animals.  
 In this project used: var, val , class, fun, abstract, interface, mutable, map, set, T  
+**Lambada**  
+Just lambda.  
+In this project used: fun, var, val, lambda  
