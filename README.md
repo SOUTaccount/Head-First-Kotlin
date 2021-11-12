@@ -1,4 +1,4 @@
-# Head-First-Kotlin
+# Kotlin projects
 Projects from the book  
 **PhraseOMatic**  
 This project can generate advertising frase.  
